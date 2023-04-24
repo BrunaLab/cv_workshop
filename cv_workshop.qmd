@@ -1,0 +1,317 @@
+---
+title: "CV Workshop"
+subtitle: "UF SACNAS"
+author: "Emilio M. Bruna"
+affiliation: "Wildlife Ecology & Conservation & Center for Latin American Studies"
+date: "`r format(Sys.time(), '%B %Y')`"
+title-slide-attributes:
+  title-slide-style: "default"
+  title-block-banner: true
+  title-block-banner-color: "#FFDDFF"
+
+format: 
+  revealjs:
+    incremental: false   
+    theme: simple
+---
+
+## [1. What is a *CV* and what is it for?]{style="color: darkblue"}
+
+. . .
+
+![](images/ian-stauffer-bH7kZ0yazB0-unsplash.jpg){.absolute left=0}
+
+------------------------------------------------------------------------
+
+## [1. What is a *CV* and what is it for?]{style="color: darkblue"}
+
+![](images/ian-stauffer-bH7kZ0yazB0-unsplash.jpg){.absolute left=0}
+
+![](images/agape-trn-XbYS0RKTW6Q-unsplash.jpg){.absolute right=0}
+
+
+------------------------------------------------------------------------
+
+## [2. What info _needs_ to be on your *CV* ?]{style="color: darkblue"} {.smaller}
+. . . 
+
+::: columns
+::: {.column width="50%"}
+-   **Name & contact info**
+
+-   **Educational background**
+
+-   **Awards, scholarships, fellowships**
+
+-   **Grants**
+
+-   **Publications**
+
+-   **Teaching Experience**
+:::
+
+::: {.column width="50%"}
+-   **Extension / Outreach Activities**
+
+-   **Presentations**
+
+-   **Professional service**
+
+-   **Relevant professional memberships**
+
+-   **Professional Development/Training**
+
+-   **Other Stuff**
+:::
+:::
+
+. . .
+
+::: {.noncolumn}
+
+<div style="position: absolute; bottom: 0; right: 0; width: 300px; text-align:right;">
+[**Know your audience.**]{style="color: darkblue"}
+  </div>
+
+:::
+
+
+------------------------------------------------------------------------
+
+## [2. What info _needs_ to be on your *CV* ?]{style="color: darkblue"} {.smaller}
+<!-- ::: {.nonincremental} -->
+
+::: columns
+::: {.column width="50%"}
+-   **Name & contact info**
+
+    -   [*webpage, google scholar, github?*]{style="color: darkgray"}
+    -   [*Citizenship or immigration status?*]{style="color: darkgray"}
+
+-   **Educational background**
+
+    -   [*Advisors? Thesis titles?*]{style="color: darkgray"}
+    
+-   **Awards, scholarships, fellowships**
+
+-   **Grants**
+
+-   **Publications**
+
+    -   [*Peer-reviewed, non-peer-reviewed, technical reports, theses*]{style="color: darkgray"}
+
+:::
+
+::: {.column width="50%"}
+-   **Teaching Experience**
+
+    -   [*TA, Guest Lectures, Environmental Ed.*]{style="color: darkgray"}
+
+-   **Extension / Outreach Activities**
+
+-   **Presentations**
+
+    -   [*Invited vs. submitted, posters*]{style="color: darkgray"}
+
+-   **Professional service**
+
+-   **Relevant professional memberships**
+
+-   **Professional Development/Training**
+
+-   **Other Stuff**
+:::
+<!-- ::: -->
+
+:::
+------------------------------------------------------------------------
+
+## [What is 'Other Stuff'?]{style="color: darkblue"} {.smaller}
+
+::: columns
+::: {.column width="50%"}
+Technical Skills
+
+Language Skills  
+
+Presentations  
+
+'Named' Scholarships & Fellowships  
+
+Certifications & Licenses  
+
+Foreign Study  
+
+International Experience  
+
+Programming Skills  
+
+Reviewer for Journals   
+
+Editorial Boards
+
+Exhibits
+
+Organizing events *(e.g., this workshop)*
+:::
+
+::: {.column width="50%"}
+Areas of Expertise
+
+Internships
+
+Academic Interests
+
+Administrative Experience
+
+Supervisory Experience
+
+Consulting Experience
+
+Advising
+
+Outreach
+
+Advisory Committees
+
+Guest Lectures in Courses
+
+Patents
+:::
+:::
+
+------------------------------------------------------------------------
+
+
+## [3. *CV* aesthetics]{style="color: darkblue"}{.smaller}
+
+. . .
+
+- **CLEAR**
+
+    - [*Well-organized, readable, visually appealing, error free*]{style="color: darkgray"}
+    - [*name & number all pages*]{style="color: darkgray"}
+
+. . .
+
+-  **CONCISE**
+
+    - [*Don't pad, avoid lengthy entries*]{style="color: darkgray"}
+    
+. . .
+
+-  **COMPLETE**
+
+    -   [*Everything relevant to your audience*]{style="color: darkgray"}
+    
+. . .
+
+-  **CONSISTENT**
+
+    -   [*Styles, fonts, formats, chronological order*]{style="color: darkgray"}
+
+. . .
+
+-  **CURRENT**
+
+    -   [*dates, update ~~regularly~~ immediately*]{style="color: darkgray"}
+
+
+. . .
+
+
+  <div style="position: absolute; bottom: 0; right: 0; width: 400px; text-align:right;">
+[**Let's see some examples.**]{style="color: darkblue"}
+  </div>
+
+
+
+------------------------------------------
+
+## 
+
+![](images/sample_cv1.png){fig-align="left"}
+
+------------------------------------------
+
+## 
+
+![](images/sample_cv2.png){fig-align="left"}
+
+------------------------------------------
+
+## 
+
+![](images/eb_grad_cv.png){fig-align="left"}
+
+
+------------------------
+
+## [Resources & Tutorials]{style="color: darkblue"}
+
+------------------------
+
+## {.smaller}
+
+`vitae` package    
+`github.com/mitchelloharawild/vitae`
+
+![](images/vitae1.png){fig-align=center}
+
+-----------------
+
+![](images/vitae2.png){fig-align=center}
+
+-----------------
+
+## {.smaller}
+
+Stephen V. Miller's CV Template   
+`svmiller.com/blog/2016/03/svm-r-markdown-cv`
+
+![](images/miller1.png){fig-align=center}
+
+-----------------
+
+## {.smaller} 
+
+Tutorial by Dr. Shazia Ruybal Pesántez   
+`github.com/shaziaruybal/automate-cv-rmd`
+
+![](images/srp1.png){fig-align=center}
+
+
+
+-----------------
+
+## {.smaller} 
+
+EMB: Old School Rmd+LaTeX to pdf    
+`github.com/BrunaLab/cv_template`    
+
+![](images/emb_template1.png){.absolute left=0}
+
+
+-----------------
+
+## {.smaller} 
+
+EMB: Old School Rmd+LaTeX to pdf    
+`github.com/BrunaLab/cv_template`    
+
+![](images/emb_template1.png){.absolute left=0}
+
+
+![](images/emb3.png){.absolute right=0}
+
+
+-----------------
+
+## {.smaller} 
+These Slides    
+`github.com/BrunaLab/cv_workshop`
+
+![](images/emb2.png){.absolute left=0}
+
+
+
