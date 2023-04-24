@@ -4,36 +4,37 @@ subtitle: "UF SACNAS"
 author: "Emilio M. Bruna"
 affiliation: "Wildlife Ecology & Conservation & Center for Latin American Studies"
 date: "`r format(Sys.time(), '%B %Y')`"
-title-slide-attributes:
-  title-slide-style: "default"
-  title-block-banner: true
-  title-block-banner-color: "#FFDDFF"
-
-format: 
+# title-slide-attributes:
+#   title-slide-style: "plain"
+#   title-block-banner: true
+#   title-block-banner-color: "#FFDDFF"
+format:
   revealjs:
-    incremental: false   
+    incremental: false
     theme: simple
+#     slide-number: true
+#     show-slide-number: print
 ---
 
 ## [1. What is a *CV* and what is it for?]{style="color: darkblue"}
 
 . . .
 
-![](images/ian-stauffer-bH7kZ0yazB0-unsplash.jpg){.absolute left=0}
+![](images/ian-stauffer-bH7kZ0yazB0-unsplash.jpg){.absolute left="0"}
 
 ------------------------------------------------------------------------
 
 ## [1. What is a *CV* and what is it for?]{style="color: darkblue"}
 
-![](images/ian-stauffer-bH7kZ0yazB0-unsplash.jpg){.absolute left=0}
+![](images/ian-stauffer-bH7kZ0yazB0-unsplash.jpg){.absolute left="0"}
 
-![](images/agape-trn-XbYS0RKTW6Q-unsplash.jpg){.absolute right=0}
-
+![](images/agape-trn-XbYS0RKTW6Q-unsplash.jpg){.absolute right="0"}
 
 ------------------------------------------------------------------------
 
-## [2. What info _needs_ to be on your *CV* ?]{style="color: darkblue"} {.smaller}
-. . . 
+## [2. What info *needs* to be on your *CV* ?]{style="color: darkblue"} {.smaller}
+
+. . .
 
 ::: columns
 ::: {.column width="50%"}
@@ -67,18 +68,16 @@ format:
 
 . . .
 
-::: {.noncolumn}
-
-<div style="position: absolute; bottom: 0; right: 0; width: 300px; text-align:right;">
+::: noncolumn
+::: {style="position: absolute; bottom: 0; right: 0; width: 300px; text-align:right;"}
 [**Know your audience.**]{style="color: darkblue"}
-  </div>
-
 :::
-
+:::
 
 ------------------------------------------------------------------------
 
-## [2. What info _needs_ to be on your *CV* ?]{style="color: darkblue"} {.smaller}
+## [2. What info *needs* to be on your *CV* ?]{style="color: darkblue"} {.smaller}
+
 <!-- ::: {.nonincremental} -->
 
 ::: columns
@@ -91,7 +90,7 @@ format:
 -   **Educational background**
 
     -   [*Advisors? Thesis titles?*]{style="color: darkgray"}
-    
+
 -   **Awards, scholarships, fellowships**
 
 -   **Grants**
@@ -99,7 +98,6 @@ format:
 -   **Publications**
 
     -   [*Peer-reviewed, non-peer-reviewed, technical reports, theses*]{style="color: darkgray"}
-
 :::
 
 ::: {.column width="50%"}
@@ -121,9 +119,10 @@ format:
 
 -   **Other Stuff**
 :::
-<!-- ::: -->
 
+<!-- ::: -->
 :::
+
 ------------------------------------------------------------------------
 
 ## [What is 'Other Stuff'?]{style="color: darkblue"} {.smaller}
@@ -132,21 +131,21 @@ format:
 ::: {.column width="50%"}
 Technical Skills
 
-Language Skills  
+Language Skills
 
-Presentations  
+Presentations
 
-'Named' Scholarships & Fellowships  
+'Named' Scholarships & Fellowships
 
-Certifications & Licenses  
+Certifications & Licenses
 
-Foreign Study  
+Foreign Study
 
-International Experience  
+International Experience
 
-Programming Skills  
+Programming Skills
 
-Reviewer for Journals   
+Reviewer for Journals
 
 Editorial Boards
 
@@ -182,136 +181,123 @@ Patents
 
 ------------------------------------------------------------------------
 
-
-## [3. *CV* aesthetics]{style="color: darkblue"}{.smaller}
-
-. . .
-
-- **CLEAR**
-
-    - [*Well-organized, readable, visually appealing, error free*]{style="color: darkgray"}
-    - [*name & number all pages*]{style="color: darkgray"}
+## [3. *CV* aesthetics]{style="color: darkblue"} {.smaller}
 
 . . .
 
--  **CONCISE**
+-   **CLEAR**
 
-    - [*Don't pad, avoid lengthy entries*]{style="color: darkgray"}
-    
+    -   [*Well-organized, readable, visually appealing, error free*]{style="color: darkgray"}
+    -   [*name & number all pages*]{style="color: darkgray"}
+
 . . .
 
--  **COMPLETE**
+-   **CONCISE**
+
+    -   [*Don't pad, avoid lengthy entries*]{style="color: darkgray"}
+
+. . .
+
+-   **COMPLETE**
 
     -   [*Everything relevant to your audience*]{style="color: darkgray"}
-    
+
 . . .
 
--  **CONSISTENT**
+-   **CONSISTENT**
 
     -   [*Styles, fonts, formats, chronological order*]{style="color: darkgray"}
 
 . . .
 
--  **CURRENT**
+-   **CURRENT**
 
     -   [*dates, update ~~regularly~~ immediately*]{style="color: darkgray"}
 
-
 . . .
 
-
-  <div style="position: absolute; bottom: 0; right: 0; width: 400px; text-align:right;">
+::: {style="position: absolute; bottom: 0; right: 0; width: 400px; text-align:right;"}
 [**Let's see some examples.**]{style="color: darkblue"}
-  </div>
+:::
 
-
-
-------------------------------------------
+------------------------------------------------------------------------
 
 ## 
 
 ![](images/sample_cv1.png){fig-align="left"}
 
-------------------------------------------
+------------------------------------------------------------------------
 
 ## 
 
 ![](images/sample_cv2.png){fig-align="left"}
 
-------------------------------------------
+------------------------------------------------------------------------
 
 ## 
 
 ![](images/eb_grad_cv.png){fig-align="left"}
 
-
-------------------------
+------------------------------------------------------------------------
 
 ## [Resources & Tutorials]{style="color: darkblue"}
 
-------------------------
+------------------------------------------------------------------------
 
-## {.smaller}
+##  {.smaller}
 
-`vitae` package    
+`vitae` package\
 `github.com/mitchelloharawild/vitae`
 
-![](images/vitae1.png){fig-align=center}
+![](images/vitae1.png){fig-align="center"}
 
------------------
+------------------------------------------------------------------------
 
-![](images/vitae2.png){fig-align=center}
+![](images/vitae2.png){fig-align="center"}
 
------------------
+------------------------------------------------------------------------
 
-## {.smaller}
+##  {.smaller}
 
-Stephen V. Miller's CV Template   
+Stephen V. Miller's CV Template\
 `svmiller.com/blog/2016/03/svm-r-markdown-cv`
 
-![](images/miller1.png){fig-align=center}
+![](images/miller1.png){fig-align="center"}
 
------------------
+------------------------------------------------------------------------
 
-## {.smaller} 
+##  {.smaller}
 
-Tutorial by Dr. Shazia Ruybal Pesántez   
+Tutorial by Dr. Shazia Ruybal Pesántez\
 `github.com/shaziaruybal/automate-cv-rmd`
 
-![](images/srp1.png){fig-align=center}
+![](images/srp1.png){fig-align="center"}
 
+------------------------------------------------------------------------
 
+##  {.smaller}
 
------------------
+EMB: Old School Rmd+LaTeX to pdf\
+`github.com/BrunaLab/cv_template`
 
-## {.smaller} 
+![](images/emb_template1.png){.absolute left="0"}
 
-EMB: Old School Rmd+LaTeX to pdf    
-`github.com/BrunaLab/cv_template`    
+------------------------------------------------------------------------
 
-![](images/emb_template1.png){.absolute left=0}
+##  {.smaller}
 
+EMB: Old School Rmd+LaTeX to pdf\
+`github.com/BrunaLab/cv_template`
 
------------------
+![](images/emb_template1.png){.absolute left="0"}
 
-## {.smaller} 
+![](images/emb3.png){.absolute right="0"}
 
-EMB: Old School Rmd+LaTeX to pdf    
-`github.com/BrunaLab/cv_template`    
+------------------------------------------------------------------------
 
-![](images/emb_template1.png){.absolute left=0}
+##  {.smaller}
 
-
-![](images/emb3.png){.absolute right=0}
-
-
------------------
-
-## {.smaller} 
-These Slides    
+These Slides\
 `github.com/BrunaLab/cv_workshop`
 
-![](images/emb2.png){.absolute left=0}
-
-
-
+![](images/emb2.png){.absolute left="0"}
