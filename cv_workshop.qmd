@@ -16,6 +16,7 @@ date: "`r format(Sys.time(), '%B %Y')`"
     # show-slide-number: print
 format: beamer 
 ---
+
 ---
 
 ## [1. What is a *CV* and what is it for?]{style="color: darkblue"}
