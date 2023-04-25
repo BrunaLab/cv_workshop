@@ -8,12 +8,14 @@ date: "`r format(Sys.time(), '%B %Y')`"
 #   title-slide-style: "plain"
 #   title-block-banner: true
 #   title-block-banner-color: "#FFDDFF"
-format:
-  revealjs:
-    incremental: false
-    theme: simple
-#     slide-number: true
-#     show-slide-number: print
+# format:
+  # revealjs:
+  #   incremental: false
+  #   theme: simple
+    # slide-number: true
+    # show-slide-number: print
+format: beamer 
+---
 ---
 
 ## [1. What is a *CV* and what is it for?]{style="color: darkblue"}
@@ -222,17 +224,17 @@ Patents
 
 ------------------------------------------------------------------------
 
-## 
+<!-- ##  -->
 
-![](images/sample_cv1.png){fig-align="left"}
+<!-- ![](images/sample_cv1.png){fig-align="left"} -->
 
-------------------------------------------------------------------------
+<!-- ------------------------------------------------------------------------ -->
 
-## 
+<!-- ##  -->
 
-![](images/sample_cv2.png){fig-align="left"}
+<!-- ![](images/sample_cv2.png){fig-align="left"} -->
 
-------------------------------------------------------------------------
+<!-- ------------------------------------------------------------------------ -->
 
 ## 
 
@@ -247,7 +249,7 @@ Patents
 ##  {.smaller}
 
 `vitae` package\
-`github.com/mitchelloharawild/vitae`
+[`github.com/mitchelloharawild/vitae`](https:\\github.com/mitchelloharawild/vitae)
 
 ![](images/vitae1.png){fig-align="center"}
 
@@ -260,7 +262,7 @@ Patents
 ##  {.smaller}
 
 Stephen V. Miller's CV Template\
-`svmiller.com/blog/2016/03/svm-r-markdown-cv`
+[`svmiller.com/blog/2016/03/svm-r-markdown-cv`](https:\\svmiller.com/blog/2016/03/svm-r-markdown-cv)
 
 ![](images/miller1.png){fig-align="center"}
 
@@ -269,7 +271,7 @@ Stephen V. Miller's CV Template\
 ##  {.smaller}
 
 Tutorial by Dr. Shazia Ruybal Pesántez\
-`github.com/shaziaruybal/automate-cv-rmd`
+[`github.com/shaziaruybal/automate-cv-rmd`](https:\\github.com/shaziaruybal/automate-cv-rmd)
 
 ![](images/srp1.png){fig-align="center"}
 
@@ -278,7 +280,7 @@ Tutorial by Dr. Shazia Ruybal Pesántez\
 ##  {.smaller}
 
 EMB: Old School Rmd+LaTeX to pdf\
-`github.com/BrunaLab/cv_template`
+[`github.com/BrunaLab/cv_template`](https:\\github.com/BrunaLab/cv_template)
 
 ![](images/emb_template1.png){.absolute left="0"}
 
@@ -298,6 +300,6 @@ EMB: Old School Rmd+LaTeX to pdf\
 ##  {.smaller}
 
 These Slides\
-`github.com/BrunaLab/cv_workshop`
+[`github.com/BrunaLab/cv_workshop`](github.com/BrunaLab/cv_workshop) or [`https://brunalab.github.io/cv_workshop/cv_workshop.html`](https://brunalab.github.io/cv_workshop/cv_workshop.html)
 
 ![](images/emb2.png){.absolute left="0"}
