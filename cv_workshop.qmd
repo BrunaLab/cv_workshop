@@ -32,10 +32,9 @@ include-in-header:
           height: 90%;
         }
         </style>
-        
-        
-
 ---
+
+## [Before we start]{style="color: darkblue"} {.smaller}
 
 These Slides can be found at: 
 

@@ -1,85 +1,92 @@
 [
   {
+    "objectID": "cv_workshop.html#before-we-start",
+    "href": "cv_workshop.html#before-we-start",
+    "title": "UF-SACNAS",
+    "section": "Before we start",
+    "text": "Before we start\nThese Slides can be found at:\ngithub.com/BrunaLab/cv_workshop\nor\nhttps://brunalab.github.io/cv_workshop/slides/index.html"
+  },
+  {
     "objectID": "cv_workshop.html#what-is-a-cv-and-what-is-it-for",
     "href": "cv_workshop.html#what-is-a-cv-and-what-is-it-for",
-    "title": "",
+    "title": "UF-SACNAS",
     "section": "What is a CV and what is it for?",
     "text": "What is a CV and what is it for?"
   },
   {
     "objectID": "cv_workshop.html#what-do-others-need-from-your-cv",
     "href": "cv_workshop.html#what-do-others-need-from-your-cv",
-    "title": "",
+    "title": "UF-SACNAS",
     "section": "What do others need from your CV ?",
     "text": "What do others need from your CV ?\n\nWho are you?\nHow can we contact you?\nWhat have you done?"
   },
   {
     "objectID": "cv_workshop.html#what-do-you-need-from-your-cv",
     "href": "cv_workshop.html#what-do-you-need-from-your-cv",
-    "title": "",
+    "title": "UF-SACNAS",
     "section": "What do you need from your CV ?",
     "text": "What do you need from your CV ?"
   },
   {
     "objectID": "cv_workshop.html#how-do-you-do-that",
     "href": "cv_workshop.html#how-do-you-do-that",
-    "title": "",
+    "title": "UF-SACNAS",
     "section": "How do you do that?",
     "text": "How do you do that?\nContent, Organization, Creativity…"
   },
   {
     "objectID": "cv_workshop.html#what-goes-in-each-category",
     "href": "cv_workshop.html#what-goes-in-each-category",
-    "title": "",
+    "title": "UF-SACNAS",
     "section": "What goes in each category?",
     "text": "What goes in each category?\n\n\n\n\nName & contact info\n\nwebpage, google scholar, github?\nCitizenship or immigration status?\n\nEducational background\n\nAdvisors? Thesis titles?\n\nAwards, scholarships, fellowships\nGrants\nPublications\n\nPeer-reviewed, non-peer-reviewed, technical reports, theses\n\n\n\n\nTeaching Experience\n\nTA, Guest Lectures, Environmental Ed.\n\nExtension / Outreach Activities\nPresentations\n\nInvited vs. submitted, posters\n\nProfessional service\nRelevant professional memberships\nProfessional Development/Training\nOther Stuff"
   },
   {
     "objectID": "cv_workshop.html#what-is-other-stuff",
     "href": "cv_workshop.html#what-is-other-stuff",
-    "title": "",
+    "title": "UF-SACNAS",
     "section": "What is ‘Other Stuff’?",
     "text": "What is ‘Other Stuff’?\n\n\nTechnical Skills\nLanguage Skills\nPresentations\n‘Named’ Scholarships & Fellowships\nCertifications & Licenses\nForeign Study\nInternational Experience\nProgramming Skills\nReviewer for Journals\nEditorial Boards\nExhibits\nOrganizing events (e.g., this workshop)\n\nAreas of Expertise\nInternships\nAcademic Interests\nAdministrative Experience\nSupervisory Experience\nConsulting Experience\nAdvising\nOutreach\nAdvisory Committees\nGuest Lectures in Courses\nPatents\n\n\n\n\nThe categories, and what you include in each, changes over time."
   },
   {
     "objectID": "cv_workshop.html#cv-aesthetics",
     "href": "cv_workshop.html#cv-aesthetics",
-    "title": "",
+    "title": "UF-SACNAS",
     "section": "CV aesthetics",
     "text": "CV aesthetics\n\nCLEAR\n\nWell-organized, readable, visually appealing, error free\nname & number all pages\n\nCONCISE\n\nDon’t pad, avoid lengthy entries\n\nCOMPLETE\n\nEverything relevant to your audience\n\nCONSISTENT\n\nStyles, fonts, formats, chronological order\n\nCURRENT\n\ndates, update regularly immediately\n\n\n\nLet’s see some examples."
   },
   {
     "objectID": "cv_workshop.html#resources-tutorials",
     "href": "cv_workshop.html#resources-tutorials",
-    "title": "",
+    "title": "UF-SACNAS",
     "section": "Resources & Tutorials",
     "text": "Resources & Tutorials"
   },
   {
     "objectID": "cv_workshop.html#section",
     "href": "cv_workshop.html#section",
-    "title": "",
+    "title": "UF-SACNAS",
     "section": "",
     "text": "vitae package\ngithub.com/mitchelloharawild/vitae"
   },
   {
     "objectID": "cv_workshop.html#section-1",
     "href": "cv_workshop.html#section-1",
-    "title": "",
+    "title": "UF-SACNAS",
     "section": "",
     "text": "Stephen V. Miller’s CV Template\nsvmiller.com/blog/2016/03/svm-r-markdown-cv"
   },
   {
     "objectID": "cv_workshop.html#section-2",
     "href": "cv_workshop.html#section-2",
-    "title": "",
+    "title": "UF-SACNAS",
     "section": "",
     "text": "Tutorial by Dr. Shazia Ruybal Pesántez\ngithub.com/shaziaruybal/automate-cv-rmd"
   },
   {
     "objectID": "cv_workshop.html#emb-old-school-.rmd-latex-.pdf",
     "href": "cv_workshop.html#emb-old-school-.rmd-latex-.pdf",
-    "title": "",
+    "title": "UF-SACNAS",
     "section": "EMB: old School .Rmd + LaTeX = .pdf",
     "text": "EMB: old School .Rmd + LaTeX = .pdf\ngithub.com/BrunaLab/cv_template"
   }
