@@ -38,11 +38,7 @@ include-in-header:
 
 These Slides can be found at: 
 
-[`github.com/BrunaLab/cv_workshop`](github.com/BrunaLab/cv_workshop)  
-
-or   
-
-[`https://brunalab.github.io/cv_workshop/slides/index.html`](https://brunalab.github.io/cv_workshop/cv_workshop.html)
+[`https://brunalab.github.io/cv_workshop/slides/index.html`](https://brunalab.github.io/cv_workshop/slides/cv_workshop.html)
 
 ------------------------------------------------------------------------
 
