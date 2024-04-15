@@ -81,6 +81,13 @@
     "href": "cv_workshop.html#section-2",
     "title": "UF-SACNAS",
     "section": "",
+    "text": "Nick Strayer’s DataDriven CV\nhttps://nickstrayer.me/datadrivencv/"
+  },
+  {
+    "objectID": "cv_workshop.html#section-3",
+    "href": "cv_workshop.html#section-3",
+    "title": "UF-SACNAS",
+    "section": "",
     "text": "Tutorial by Dr. Shazia Ruybal Pesántez\ngithub.com/shaziaruybal/automate-cv-rmd"
   },
   {
@@ -88,6 +95,13 @@
     "href": "cv_workshop.html#emb-old-school-.rmd-latex-.pdf",
     "title": "UF-SACNAS",
     "section": "EMB: old School .Rmd + LaTeX = .pdf",
-    "text": "EMB: old School .Rmd + LaTeX = .pdf\ngithub.com/BrunaLab/cv_template"
+    "text": "EMB: old School .Rmd + LaTeX = .pdf\n.Rmd of CV Template is at: github.com/BrunaLab/cv_template"
+  },
+  {
+    "objectID": "cv_workshop.html#reminder",
+    "href": "cv_workshop.html#reminder",
+    "title": "UF-SACNAS",
+    "section": "Reminder",
+    "text": "Reminder\nThese Slides can be found at:\nhttps://brunalab.github.io/cv_workshop/slides/index.html"
   }
 ]

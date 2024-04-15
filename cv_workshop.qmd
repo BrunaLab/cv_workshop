@@ -285,6 +285,18 @@ Stephen V. Miller's CV Template\
 
 ![](images/miller1.png){fig-align="center"}
 
+
+------------------------------------------------------------------------
+
+##  {.smaller}
+
+Nick Strayer's DataDriven CV\
+[`https://nickstrayer.me/datadrivencv/`](https://nickstrayer.me/datadrivencv/)
+
+![](images/data_driven_cv.png){fig-align="center"}
+
+
+
 ------------------------------------------------------------------------
 
 ##  {.smaller}
@@ -298,9 +310,16 @@ Tutorial by Dr. Shazia Ruybal Pesántez\
 
 ## [EMB: old School .Rmd + LaTeX = .pdf]{style="color: darkblue"} {.smaller}
 
-[`github.com/BrunaLab/cv_template`](https:\\github.com/BrunaLab/cv_template)
+.Rmd of CV Template is at: [`github.com/BrunaLab/cv_template`](https://github.com/BrunaLab/cv_template/blob/6c907814bc310e25918996d19c92f0301da3b7f2/cv_template.Rmd)
 
 ![](images/emb_template1.png){.absolute left="0"}
 ![](images/emb3.png){.absolute right="0"}
 
 ------------------------------------------------------------------------
+
+
+## [Reminder]{style="color: darkblue"} {.smaller}
+
+These Slides can be found at: 
+
+[`https://brunalab.github.io/cv_workshop/slides/index.html`](https://brunalab.github.io/cv_workshop/slides/cv_workshop.html)
