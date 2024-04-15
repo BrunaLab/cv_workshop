@@ -1,0 +1,31 @@
+/*-- scss:rules --*/
+#title-slide {
+  .title {
+    font-size: 3.5em;
+    color: MidnightBlue;
+  }
+
+  .subtitle {
+    font-size: 3.5em;
+    color: MidnightBlue;
+  }
+
+  .author {
+    font-size: 2em;
+  }
+
+  .institute {
+    font-size: 1em;
+  }
+
+  .quarto-title-author {
+    color: #ffffff;
+  }
+}
+/*--
+<style> {
+  .left 
+    text-align: left;
+  }
+</style> 
+--*/

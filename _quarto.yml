@@ -1,5 +1,7 @@
 project:
-  title: "cv_workshop"
+  title: "Emilio's CV Workshop"
+  type: website
+  output-dir: 'slides'
 
 
 

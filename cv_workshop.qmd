@@ -1,43 +1,87 @@
 ---
-title: "CV Workshop"
-subtitle: "UF SACNAS"
+title: "UF-SACNAS"
+subtitle: "CV Workshop"
 author: "Emilio M. Bruna"
-affiliation: "Wildlife Ecology & Conservation & Center for Latin American Studies"
+institute: "Wildlife Ecology and Conservation & Center for Latin American Studies"
 date: "`r format(Sys.time(), '%B %Y')`"
-# title-slide-attributes:
-#   title-slide-style: "plain"
-#   title-block-banner: true
-#   title-block-banner-color: "#FFDDFF"
-# format:
-  # revealjs:
-  #   incremental: false
-  #   theme: simple
-    # slide-number: true
+format: 
+  revealjs:
+    theme: [white, cv_workshop.css]
+    slide-number: true
     # show-slide-number: print
-format: beamer 
----
+    # theme: [night]
+    # theme: [custom.css]
+    smaller: true 
+    # self-contained: false
+    # reveal-js-url: 
+    # theme: white
+# editor: source
+output: revealjs::revealjs_presentation
+include-in-header:
+      text: |
+        <style>
+        .right {
+          text-align: right;
+        }
+        </style>
+        <style>
+        .v-center-container {
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          height: 90%;
+        }
+        </style>
+        
+        
 
 ---
 
-## [1. What is a *CV* and what is it for?]{style="color: darkblue"}
+These Slides can be found at: 
 
-. . .
+[`github.com/BrunaLab/cv_workshop`](github.com/BrunaLab/cv_workshop)  
 
-![](images/ian-stauffer-bH7kZ0yazB0-unsplash.jpg){.absolute left="0"}
+or   
 
-------------------------------------------------------------------------
-
-## [1. What is a *CV* and what is it for?]{style="color: darkblue"}
-
-![](images/ian-stauffer-bH7kZ0yazB0-unsplash.jpg){.absolute left="0"}
-
-![](images/agape-trn-XbYS0RKTW6Q-unsplash.jpg){.absolute right="0"}
+[`https://brunalab.github.io/cv_workshop/slides/index.html`](https://brunalab.github.io/cv_workshop/cv_workshop.html)
 
 ------------------------------------------------------------------------
 
-## [2. What info *needs* to be on your *CV* ?]{style="color: darkblue"} {.smaller}
+## [What is a *CV* and what is it for?]{style="color: darkblue"}
 
-. . .
+<p class="fragment">![](images/ian-stauffer-bH7kZ0yazB0-unsplash.jpg){.absolute left="0"}</p>
+
+<p class="fragment">![](images/agape-trn-XbYS0RKTW6Q-unsplash.jpg){.absolute right="0"}</p>
+
+------------------------------------------------------------------------
+
+## [What do **_others_** need from your *CV* ?]{style="color: darkblue"} {.smaller}
+
+1.   **Who are you?** 
+
+2.  **How can we contact you?**
+
+3.   **What have you done?**
+
+------------------------------------------------------------------------
+
+## [What do **_you_** need from your *CV* ?]{style="color: darkblue"} {.smaller}
+
+<p class="fragment"><img src="images/nick-fewings-7cLIUI6rVDc-unsplash.jpg"  height="90%" width="90%"></p>
+
+------------------------------------------------------------------------
+
+## [How do you do that?]{style="color: darkblue"} {.smaller}
+
+### _Content_, _Organization_, _Creativity_...
+
+<img src="images/chuttersnap-PVO_tj2APuM-unsplash.jpg"  height="90%" width="90%">
+
+------------------------------------------------------------------------
+
+<!-- ## [How do you do that?]{style="color: darkblue"} {.smaller} -->
+
+### ...and know your audience.
 
 ::: columns
 ::: {.column width="50%"}
@@ -69,17 +113,17 @@ format: beamer
 :::
 :::
 
-. . .
+<!-- . . . -->
 
-::: noncolumn
-::: {style="position: absolute; bottom: 0; right: 0; width: 300px; text-align:right;"}
-[**Know your audience.**]{style="color: darkblue"}
-:::
-:::
+<!-- ::: noncolumn -->
+<!-- ::: {style="position: absolute; bottom: 0; right: 0; width: 300px; text-align:right;"} -->
+<!-- [**Know your audience.**]{style="color: darkblue"} -->
+<!-- ::: -->
+<!-- ::: -->
 
 ------------------------------------------------------------------------
 
-## [2. What info *needs* to be on your *CV* ?]{style="color: darkblue"} {.smaller}
+## [What goes in each category?]{style="color: darkblue"} {.smaller}
 
 <!-- ::: {.nonincremental} -->
 
@@ -132,92 +176,71 @@ format: beamer
 
 ::: columns
 ::: {.column width="50%"}
-Technical Skills
-
-Language Skills
-
-Presentations
-
-'Named' Scholarships & Fellowships
-
-Certifications & Licenses
-
-Foreign Study
-
-International Experience
-
-Programming Skills
-
-Reviewer for Journals
-
-Editorial Boards
-
-Exhibits
-
-Organizing events *(e.g., this workshop)*
+Technical Skills  
+Language Skills  
+Presentations  
+'Named' Scholarships & Fellowships  
+Certifications & Licenses  
+Foreign Study  
+International Experience  
+Programming Skills  
+Reviewer for Journals  
+Editorial Boards  
+Exhibits  
+Organizing events *(e.g., this workshop)*  
 :::
 
 ::: {.column width="50%"}
-Areas of Expertise
+Areas of Expertise  
+Internships  
+Academic Interests  
+Administrative Experience  
+Supervisory Experience  
+Consulting Experience  
+Advising  
+Outreach  
+Advisory Committees  
+Guest Lectures in Courses  
+Patents  
+:::
+:::
 
-Internships
-
-Academic Interests
-
-Administrative Experience
-
-Supervisory Experience
-
-Consulting Experience
-
-Advising
-
-Outreach
-
-Advisory Committees
-
-Guest Lectures in Courses
-
-Patents
+::: noncolumn
+::: {style="position: absolute; bottom: 0; right: 0; width: 900px; text-align:right;"}
+[**The categories, and what you include in each, changes over time.**]{style="color: darkblue"}
 :::
 :::
 
 ------------------------------------------------------------------------
 
-## [3. *CV* aesthetics]{style="color: darkblue"} {.smaller}
+## [*CV* aesthetics]{style="color: darkblue"} {.smaller}
 
-. . .
 
 -   **CLEAR**
 
     -   [*Well-organized, readable, visually appealing, error free*]{style="color: darkgray"}
     -   [*name & number all pages*]{style="color: darkgray"}
 
-. . .
 
 -   **CONCISE**
 
     -   [*Don't pad, avoid lengthy entries*]{style="color: darkgray"}
 
-. . .
 
 -   **COMPLETE**
 
     -   [*Everything relevant to your audience*]{style="color: darkgray"}
 
-. . .
 
 -   **CONSISTENT**
 
     -   [*Styles, fonts, formats, chronological order*]{style="color: darkgray"}
 
-. . .
 
 -   **CURRENT**
 
     -   [*dates, update ~~regularly~~ immediately*]{style="color: darkgray"}
 
-. . .
 
 ::: {style="position: absolute; bottom: 0; right: 0; width: 400px; text-align:right;"}
 [**Let's see some examples.**]{style="color: darkblue"}
@@ -227,17 +250,17 @@ Patents
 
 <!-- ##  -->
 
-<!-- ![](images/sample_cv1.png){fig-align="left"} -->
+![](images/sample_cv1.png){fig-align="left"}
 
-<!-- ------------------------------------------------------------------------ -->
+------------------------------------------------------------------------
 
 <!-- ##  -->
 
-<!-- ![](images/sample_cv2.png){fig-align="left"} -->
+![](images/sample_cv2.png){fig-align="left"}
 
-<!-- ------------------------------------------------------------------------ -->
+------------------------------------------------------------------------
 
-## 
+
 
 ![](images/eb_grad_cv.png){fig-align="left"}
 
@@ -278,29 +301,11 @@ Tutorial by Dr. Shazia Ruybal Pesántez\
 
 ------------------------------------------------------------------------
 
-##  {.smaller}
+## [EMB: old School .Rmd + LaTeX = .pdf]{style="color: darkblue"} {.smaller}
 
-EMB: Old School Rmd+LaTeX to pdf\
 [`github.com/BrunaLab/cv_template`](https:\\github.com/BrunaLab/cv_template)
 
 ![](images/emb_template1.png){.absolute left="0"}
-
-------------------------------------------------------------------------
-
-##  {.smaller}
-
-EMB: Old School Rmd+LaTeX to pdf\
-`github.com/BrunaLab/cv_template`
-
-![](images/emb_template1.png){.absolute left="0"}
-
 ![](images/emb3.png){.absolute right="0"}
 
 ------------------------------------------------------------------------
-
-##  {.smaller}
-
-These Slides\
-[`github.com/BrunaLab/cv_workshop`](github.com/BrunaLab/cv_workshop) or [`https://brunalab.github.io/cv_workshop/cv_workshop.html`](https://brunalab.github.io/cv_workshop/cv_workshop.html)
-
-![](images/emb2.png){.absolute left="0"}
