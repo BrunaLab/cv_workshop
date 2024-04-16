@@ -337,22 +337,12 @@
   <div class="reveal">
     <div class="slides">
 
-<section id="title-slide" class="quarto-title-block center">
+<section id="title-slide" class="center">
   <h1 class="title">UF-SACNAS</h1>
   <p class="subtitle">CV Workshop</p>
-
-<div class="quarto-title-authors">
-<div class="quarto-title-author">
-<div class="quarto-title-author-name">
-Emilio M. Bruna 
-</div>
-        <p class="quarto-title-affiliation">
-            Wildlife Ecology and Conservation &amp; Center for Latin American Studies
-          </p>
-    </div>
-</div>
-
-  <p class="date">Invalid Date</p>
+  <p class="author">Emilio M. Bruna</p>
+  <p class="institute">Wildlife Ecology and Conservation &amp; Center for Latin American Studies</p>
+  <p class="date">Updated: April 16, 2024</p>
 </section>
 <section id="before-we-start" class="slide level2 smaller">
 <h2><span style="color: darkblue">Before we start</span></h2>
@@ -524,17 +514,13 @@ Patents</p>
 <div style="position: absolute; bottom: 0; right: 0; width: 400px; text-align:right;">
 <p><span style="color: darkblue"><strong>Let’s see some examples.</strong></span></p>
 </div>
+<!-- ------------------------------------------------------------------------ -->
+<!-- ##  -->
+<!-- ![](images/sample_cv1.png){fig-align="left"} -->
+<!-- ------------------------------------------------------------------------ -->
+<!-- <!-- ##  -->
+<!-- ![](images/sample_cv2.png){fig-align="left"} -->
 </section>
-<section class="slide level2">
-
-<!-- ##  -->
-
-<img data-src="images/sample_cv1.png" class="r-stretch quarto-figure-left"></section>
-<section class="slide level2">
-
-<!-- ##  -->
-
-<img data-src="images/sample_cv2.png" class="r-stretch quarto-figure-left"></section>
 <section class="slide level2">
 
 
@@ -796,6 +782,44 @@ Patents</p>
         ]
       });
     </script>
+    
+    <script>
+      // htmlwidgets need to know to resize themselves when slides are shown/hidden.
+      // Fire the "slideenter" event (handled by htmlwidgets.js) when the current
+      // slide changes (different for each slide format).
+      (function () {
+        // dispatch for htmlwidgets
+        function fireSlideEnter() {
+          const event = window.document.createEvent("Event");
+          event.initEvent("slideenter", true, true);
+          window.document.dispatchEvent(event);
+        }
+
+        function fireSlideChanged(previousSlide, currentSlide) {
+          fireSlideEnter();
+
+          // dispatch for shiny
+          if (window.jQuery) {
+            if (previousSlide) {
+              window.jQuery(previousSlide).trigger("hidden");
+            }
+            if (currentSlide) {
+              window.jQuery(currentSlide).trigger("shown");
+            }
+          }
+        }
+
+        // hookup for slidy
+        if (window.w3c_slidy) {
+          window.w3c_slidy.add_observer(function (slide_num) {
+            // slide_num starts at position 1
+            fireSlideChanged(null, w3c_slidy.slides[slide_num - 1]);
+          });
+        }
+
+      })();
+    </script>
+
     <script id="quarto-html-after-body" type="application/javascript">
     window.document.addEventListener("DOMContentLoaded", function (event) {
       const toggleBodyColorMode = (bsSheetEl) => {

@@ -3,20 +3,21 @@ title: "UF-SACNAS"
 subtitle: "CV Workshop"
 author: "Emilio M. Bruna"
 institute: "Wildlife Ecology and Conservation & Center for Latin American Studies"
-date: "`r format(Sys.time(), '%B %Y')`"
+date: 
+  value: today
+  format: '[Updated: ] MMMM DD, YYYY'
+title-slide-style: pandoc
 format: 
   revealjs:
     theme: [white, cv_workshop.css]
     slide-number: true
     # show-slide-number: print
-    # theme: [night]
-    # theme: [custom.css]
     smaller: true 
     # self-contained: false
     # reveal-js-url: 
-    # theme: white
 # editor: source
 output: revealjs::revealjs_presentation
+engine: knitr
 include-in-header:
       text: |
         <style>
@@ -241,17 +242,17 @@ Patents
 [**Let's see some examples.**]{style="color: darkblue"}
 :::
 
-------------------------------------------------------------------------
+<!-- ------------------------------------------------------------------------ -->
 
 <!-- ##  -->
 
-![](images/sample_cv1.png){fig-align="left"}
+<!-- ![](images/sample_cv1.png){fig-align="left"} -->
 
-------------------------------------------------------------------------
+<!-- ------------------------------------------------------------------------ -->
 
-<!-- ##  -->
+<!-- <!-- ##  --> 
 
-![](images/sample_cv2.png){fig-align="left"}
+<!-- ![](images/sample_cv2.png){fig-align="left"} -->
 
 ------------------------------------------------------------------------
 
