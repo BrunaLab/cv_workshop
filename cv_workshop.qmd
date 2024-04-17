@@ -35,6 +35,14 @@ include-in-header:
         </style>
 ---
 
+
+<!-- Updates for next session -->
+<!-- 1. have people bring their CV on paper to review and markup -->
+<!-- 1. have people make list of categories for cv -->
+<!-- 1. assign things to these cathegores -->
+<!-- 1. have a list of 'other stuff' and figure out where it goes -->
+
+
 ## [Before we start]{style="color: darkblue"} {.smaller}
 
 These Slides can be found at: 
