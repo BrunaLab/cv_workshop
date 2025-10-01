@@ -322,14 +322,25 @@ Tutorial by Dr. Shazia Ruybal Pesántez\
 .Rmd of CV Template is at: [`github.com/BrunaLab/cv_template`](https://github.com/BrunaLab/cv_template/blob/6c907814bc310e25918996d19c92f0301da3b7f2/cv_template.Rmd)
 
 ![](images/emb_template1.png){.absolute left="0"}
-![](images/emb3.png){.absolute right="0"}
+
 
 ------------------------------------------------------------------------
 
+
+## [EMB: old School .Rmd + LaTeX = .pdf]{style="color: darkblue"} {.smaller}
+
+.Rmd of CV Template is at: [`github.com/BrunaLab/cv_template`](https://github.com/BrunaLab/cv_template/blob/6c907814bc310e25918996d19c92f0301da3b7f2/cv_template.Rmd)
+
+![](images/emb_template1.png){.absolute left="0"}
+![](images/emb3.png){.absolute right="0"}
+
+------------------------------------------------------------------------
 
 ## [Reminder]{style="color: darkblue"} {.smaller}
 
 - These Slides can be found at: [`https://brunalab.github.io/cv_workshop`](https://brunalab.github.io/cv_workshop)
 
 - You can download a copy simplified version of the .Rmd file EB uses for his CV [here](https://github.com/BrunaLab/cv_template/blob/5dae1517d5cf802ad9c80cb9c7a1fa40c6ed4db2/cv_template.Rmd)
+
+![](images/download.png){fig-align="center"}
 
