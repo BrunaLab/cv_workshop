@@ -47,7 +47,7 @@ include-in-header:
 
 These Slides can be found at: 
 
-[`https://brunalab.github.io/cv_workshop/slides/index.html`](https://brunalab.github.io/cv_workshop/slides/cv_workshop.html)
+[`https://brunalab.github.io/cv_workshop`](https://brunalab.github.io/cv_workshop)
 
 ------------------------------------------------------------------------
 
@@ -135,12 +135,12 @@ These Slides can be found at:
 ::: {.column width="50%"}
 -   **Name & contact info**
 
-    -   [*webpage, google scholar, github?*]{style="color: darkgray"}
-    -   [*Citizenship or immigration status?*]{style="color: darkgray"}
+    -   [*webpage, google scholar, github?*]{style="color: #666261"}
+    -   [*Citizenship or immigration status?*]{style="color: #666261"}
 
 -   **Educational background**
 
-    -   [*Advisors? Thesis titles?*]{style="color: darkgray"}
+    -   [*Advisors? Thesis titles?*]{style="color: #666261"}
 
 -   **Awards, scholarships, fellowships**
 
@@ -148,19 +148,19 @@ These Slides can be found at:
 
 -   **Publications**
 
-    -   [*Peer-reviewed, non-peer-reviewed, technical reports, theses*]{style="color: darkgray"}
+    -   [*Peer-reviewed, non-peer-reviewed, technical reports, theses*]{style="color: #666261"}
 :::
 
 ::: {.column width="50%"}
 -   **Teaching Experience**
 
-    -   [*TA, Guest Lectures, Environmental Ed.*]{style="color: darkgray"}
+    -   [*TA, Guest Lectures, Environmental Ed.*]{style="color:  #666261"}
 
 -   **Extension / Outreach Activities**
 
 -   **Presentations**
 
-    -   [*Invited vs. submitted, posters*]{style="color: darkgray"}
+    -   [*Invited vs. submitted, posters*]{style="color:  #666261"}
 
 -   **Professional service**
 
@@ -222,45 +222,45 @@ Patents
 
 -   **CLEAR**
 
-    -   [*Well-organized, readable, visually appealing, error free*]{style="color: darkgray"}
-    -   [*name & number all pages*]{style="color: darkgray"}
+    -   [*Well-organized, readable, visually appealing, error free*]{style="color:  #666261"}
+    -   [*name & number all pages*]{style="color:  #666261"}
 
 
 -   **CONCISE**
 
-    -   [*Don't pad, avoid lengthy entries*]{style="color: darkgray"}
+    -   [*Don't pad, avoid lengthy entries*]{style="color:  #666261"}
 
 
 -   **COMPLETE**
 
-    -   [*Everything relevant to your audience*]{style="color: darkgray"}
+    -   [*Everything relevant to your audience*]{style="color:  #666261"}
 
 
 -   **CONSISTENT**
 
-    -   [*Styles, fonts, formats, chronological order*]{style="color: darkgray"}
+    -   [*Styles, fonts, formats, chronological order*]{style="color:  #666261"}
 
 
 -   **CURRENT**
 
-    -   [*dates, update ~~regularly~~ immediately*]{style="color: darkgray"}
+    -   [*dates, update ~~regularly~~ immediately*]{style="color:  #666261"}
 
 
 ::: {style="position: absolute; bottom: 0; right: 0; width: 400px; text-align:right;"}
 [**Let's see some examples.**]{style="color: darkblue"}
 :::
 
-<!-- ------------------------------------------------------------------------ -->
+------------------------------------------------------------------------
 
-<!-- ##  -->
+##
 
-<!-- ![](images/sample_cv1.png){fig-align="left"} -->
+![](images/sample_cv1.png){fig-align="left"}
 
-<!-- ------------------------------------------------------------------------ -->
+------------------------------------------------------------------------
 
-<!-- <!-- ##  --> 
+##
 
-<!-- ![](images/sample_cv2.png){fig-align="left"} -->
+![](images/sample_cv2.png){fig-align="left"}
 
 ------------------------------------------------------------------------
 
@@ -329,8 +329,7 @@ Tutorial by Dr. Shazia Ruybal Pesántez\
 
 ## [Reminder]{style="color: darkblue"} {.smaller}
 
-These Slides can be found at: 
+- These Slides can be found at: [`https://brunalab.github.io/cv_workshop`](https://brunalab.github.io/cv_workshop)
 
-[`https://brunalab.github.io/cv_workshop/slides/index.html`](https://brunalab.github.io/cv_workshop/slides/cv_workshop.html)
+- You can download a copy simplified version of the .Rmd file EB uses for his CV [here](https://github.com/BrunaLab/cv_template/blob/5dae1517d5cf802ad9c80cb9c7a1fa40c6ed4db2/cv_template.Rmd)
 
-You can download a copy simplified version of the .Rmd file EB uses for his CV [here](https://github.com/BrunaLab/cv_template/blob/5dae1517d5cf802ad9c80cb9c7a1fa40c6ed4db2/cv_template.Rmd)

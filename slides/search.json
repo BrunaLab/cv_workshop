@@ -4,7 +4,7 @@
     "href": "cv_workshop.html#before-we-start",
     "title": "UF-SACNAS",
     "section": "Before we start",
-    "text": "Before we start\nThese Slides can be found at:\nhttps://brunalab.github.io/cv_workshop/slides/index.html"
+    "text": "Before we start\nThese Slides can be found at:\nhttps://brunalab.github.io/cv_workshop"
   },
   {
     "objectID": "cv_workshop.html#what-is-a-cv-and-what-is-it-for",
@@ -74,21 +74,21 @@
     "href": "cv_workshop.html#section-1",
     "title": "UF-SACNAS",
     "section": "",
-    "text": "Stephen V. Miller’s CV Template\nsvmiller.com/blog/2016/03/svm-r-markdown-cv"
+    "text": "vitae package\ngithub.com/mitchelloharawild/vitae"
   },
   {
     "objectID": "cv_workshop.html#section-2",
     "href": "cv_workshop.html#section-2",
     "title": "UF-SACNAS",
     "section": "",
-    "text": "Nick Strayer’s DataDriven CV\nhttps://nickstrayer.me/datadrivencv/"
+    "text": "vitae package\ngithub.com/mitchelloharawild/vitae"
   },
   {
     "objectID": "cv_workshop.html#section-3",
     "href": "cv_workshop.html#section-3",
     "title": "UF-SACNAS",
     "section": "",
-    "text": "Tutorial by Dr. Shazia Ruybal Pesántez\ngithub.com/shaziaruybal/automate-cv-rmd"
+    "text": "Stephen V. Miller’s CV Template\nsvmiller.com/blog/2016/03/svm-r-markdown-cv"
   },
   {
     "objectID": "cv_workshop.html#emb-old-school-.rmd-latex-.pdf",
@@ -102,6 +102,20 @@
     "href": "cv_workshop.html#reminder",
     "title": "UF-SACNAS",
     "section": "Reminder",
-    "text": "Reminder\nThese Slides can be found at:\nhttps://brunalab.github.io/cv_workshop/slides/index.html\nYou can download a copy simplified version of the .Rmd file EB uses for his CV here"
+    "text": "Reminder\n\nThese Slides can be found at: https://brunalab.github.io/cv_workshop\nYou can download a copy simplified version of the .Rmd file EB uses for his CV here"
+  },
+  {
+    "objectID": "cv_workshop.html#section-4",
+    "href": "cv_workshop.html#section-4",
+    "title": "UF-SACNAS",
+    "section": "",
+    "text": "Nick Strayer’s DataDriven CV\nhttps://nickstrayer.me/datadrivencv/"
+  },
+  {
+    "objectID": "cv_workshop.html#section-5",
+    "href": "cv_workshop.html#section-5",
+    "title": "UF-SACNAS",
+    "section": "",
+    "text": "Tutorial by Dr. Shazia Ruybal Pesántez\ngithub.com/shaziaruybal/automate-cv-rmd"
   }
 ]
