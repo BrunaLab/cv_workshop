@@ -1,4 +1,5 @@
 # _'Building your CV'_ Workshop
+
 ## Emilio Bruna, University of Florida
 
 Below are links to some of the materials for the _'Building your CV'_ Workshop. 
@@ -19,8 +20,9 @@ You can download a copy simplified version of the .Rmd file EB uses for
 his CV [here](https://github.com/BrunaLab/cv_template/blob/5dae1517d5cf802ad9c80cb9c7a1fa40c6ed4db2/cv_template.Rmd)
 
 ## Suggestions or Corrections
-https://github.com/BrunaLab/HeliconiaSurveys/blob/master/CONTRIBUTING.md
-The slides and materials are available at this [Github repository](https://github.com/BrunaLab/cv_workshop).
+
+The files for slides and all materials for this workshop are 
+available at this [Github repository](https://github.com/BrunaLab/cv_workshop).
 
 We welcome any suggestions for package improvement or ideas for features to include in future versions. 
 If you have Issues, Feature Requests and Pull Requests, here is [how to contribute](https://github.com/BrunaLab/cv_workshop/blob/master/CONTRIBUTING.md). 
