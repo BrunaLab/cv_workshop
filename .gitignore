@@ -6,3 +6,5 @@
 .httr-oauth
 .Rdata
 .DS_Store
+
+**/*.quarto_ipynb

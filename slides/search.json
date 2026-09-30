@@ -4,28 +4,28 @@
     "href": "cv_workshop.html#before-we-start",
     "title": "UF-SACNAS",
     "section": "Before we start",
-    "text": "Before we start\nThese Slides can be found at:\nhttps://brunalab.github.io/cv_workshop"
+    "text": "Before we start\nSlides available here: https://brunalab.github.io/cv_workshop\n\n\n\nTOPIC\nTIME\n\n\n\n\nWelcome\n5 min\n\n\nWhat is a CV (for)?\n5 min\n\n\nContent / Categories\n10 min\n\n\nAesthetics\n10 min\n\n\nMS Word? LaTeX? Rmd/Quarto?\n5 min\n\n\nBREAK & GET IN GROUPS\n10 min\n\n\nLet’s get to work\n45min"
   },
   {
     "objectID": "cv_workshop.html#what-is-a-cv-and-what-is-it-for",
     "href": "cv_workshop.html#what-is-a-cv-and-what-is-it-for",
     "title": "UF-SACNAS",
     "section": "What is a CV and what is it for?",
-    "text": "What is a CV and what is it for?"
+    "text": "What is a CV and what is it for?\n\n\n\n\n\n\n\nIt’s a celebration of all your accomplishments! Even if it feels like a dusty old book."
   },
   {
     "objectID": "cv_workshop.html#what-do-others-need-from-your-cv",
     "href": "cv_workshop.html#what-do-others-need-from-your-cv",
     "title": "UF-SACNAS",
     "section": "What do others need from your CV ?",
-    "text": "What do others need from your CV ?\n\nWho are you?\nHow can we contact you?\nWhat have you done?"
+    "text": "What do others need from your CV ?\n\n\n\nWho are you?\nHow can we contact you?\nWhat have you done?"
   },
   {
     "objectID": "cv_workshop.html#what-do-you-need-from-your-cv",
     "href": "cv_workshop.html#what-do-you-need-from-your-cv",
     "title": "UF-SACNAS",
     "section": "What do you need from your CV ?",
-    "text": "What do you need from your CV ?"
+    "text": "What do you need from your CV ?\n\n\n\n\nTo stand out from the crowd…\n\n\nTo stand out from the crowd!"
   },
   {
     "objectID": "cv_workshop.html#how-do-you-do-that",
@@ -46,7 +46,7 @@
     "href": "cv_workshop.html#what-is-other-stuff",
     "title": "UF-SACNAS",
     "section": "What is ‘Other Stuff’?",
-    "text": "What is ‘Other Stuff’?\n\n\nTechnical Skills\nLanguage Skills\nPresentations\n‘Named’ Scholarships & Fellowships\nCertifications & Licenses\nForeign Study\nInternational Experience\nProgramming Skills\nReviewer for Journals\nEditorial Boards\nExhibits\nOrganizing events (e.g., this workshop)\n\nAreas of Expertise\nInternships\nAcademic Interests\nAdministrative Experience\nSupervisory Experience\nConsulting Experience\nAdvising\nOutreach\nAdvisory Committees\nGuest Lectures in Courses\nPatents\n\n\n\n\nThe categories, and what you include in each, changes over time."
+    "text": "What is ‘Other Stuff’?\n\n\nTechnical Skills\nLanguage Skills\nPresentations\n‘Named’ Scholarships & Fellowships\nCertifications & Licenses\nForeign Study\nInternational Experience\nProgramming Skills\nReviewer for Journals\nEditorial Boards\nExhibits\nOrganizing events (e.g., this workshop)\n\nAreas of Expertise\nInternships\nAcademic Interests\nAdministrative Experience\nSupervisory Experience\nConsulting Experience\nAdvising\nOutreach\nAdvisory Committees\nGuest Lectures in Courses\nPatents\n\n\n\nThe categories, and what you include in each, changes over time."
   },
   {
     "objectID": "cv_workshop.html#cv-aesthetics",
@@ -109,7 +109,7 @@
     "href": "cv_workshop.html#section-4",
     "title": "UF-SACNAS",
     "section": "",
-    "text": "Nick Strayer’s DataDriven CV\nhttps://nickstrayer.me/datadrivencv/"
+    "text": "Nick Strayer’s DataDriven CV\nhttps://nickstrayer.me/datadrivencv/\n Tutorial by UA CCT Data Science’s Kristina Riemer: Video & Slides"
   },
   {
     "objectID": "cv_workshop.html#section-5",
@@ -124,5 +124,33 @@
     "title": "UF-SACNAS",
     "section": "EMB: old School .Rmd + LaTeX = .pdf",
     "text": "EMB: old School .Rmd + LaTeX = .pdf\n.Rmd of CV Template is at: github.com/BrunaLab/cv_template"
+  },
+  {
+    "objectID": "cv_workshop.html#welcome",
+    "href": "cv_workshop.html#welcome",
+    "title": "UF-SACNAS",
+    "section": "WELCOME",
+    "text": "WELCOME\n\n\n\nTOPIC\nTIME\n\n\n\n\nWorkshop overview\n5 min\n\n\nWhat is a CV (for)?\n5 min\n\n\nContent / Categories\n10 min\n\n\nAesthetics\n10 min\n\n\nMS Word? LaTeX? Rmd/Quarto?\n5 min\n\n\nBREAK & GET IN GROUPS\n10 min\n\n\nLet’s get to work\n45min\n\n\n\n\n \nThese slides are available here: https://brunalab.github.io/cv_workshop"
+  },
+  {
+    "objectID": "cv_workshop.html#and-know-your-audience.",
+    "href": "cv_workshop.html#and-know-your-audience.",
+    "title": "UF-SACNAS",
+    "section": "…and know your audience.",
+    "text": "…and know your audience.\n\n\n\nName & contact info\nEducational background\nAwards, scholarships, fellowships\nGrants\nPublications\nTeaching Experience\n\n\n\nExtension / Outreach Activities\nPresentations\nProfessional service\nRelevant professional memberships\nProfessional Development/Training\nOther Stuff"
+  },
+  {
+    "objectID": "cv_workshop.html#microsoft-word",
+    "href": "cv_workshop.html#microsoft-word",
+    "title": "UF-SACNAS",
+    "section": "Microsoft Word",
+    "text": "Microsoft Word"
+  },
+  {
+    "objectID": "cv_workshop.html#ms-word",
+    "href": "cv_workshop.html#ms-word",
+    "title": "UF-SACNAS",
+    "section": "MS Word",
+    "text": "MS Word"
   }
 ]

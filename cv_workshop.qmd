@@ -43,11 +43,24 @@ include-in-header:
 <!-- 1. have a list of 'other stuff' and figure out where it goes -->
 
 
-## [Before we start]{style="color: darkblue"} {.smaller}
+## [WELCOME]{style="color: darkblue"} {.smaller}
 
-These Slides can be found at: 
+TOPIC| TIME
+-----|-----:
+Workshop overview|5 min
+What is a CV (for)?|5 min
+Content / Categories |10 min
+Aesthetics|10 min
+MS Word? LaTeX? Rmd/Quarto?|5 min
+BREAK & GET IN GROUPS|10 min
+Let's get to work|45min
 
-[`https://brunalab.github.io/cv_workshop`](https://brunalab.github.io/cv_workshop)
+
+<hr>
+
+&nbsp;
+
+**These slides are available here: [`https://brunalab.github.io/cv_workshop`](https://brunalab.github.io/cv_workshop)**
 
 ------------------------------------------------------------------------
 
@@ -57,9 +70,18 @@ These Slides can be found at:
 
 <p class="fragment">![](images/agape-trn-XbYS0RKTW6Q-unsplash.jpg){.absolute right="0"}</p>
 
+
+::: {.notes}
+It's a celebration of all your accomplishments! Even if it feels like a dusty old book.
+:::
+
 ------------------------------------------------------------------------
 
 ## [What do **_others_** need from your *CV* ?]{style="color: darkblue"} {.smaller}
+::: {.fragment fragment-index=1}
+
+
+::: {.r-fit-text}
 
 1.   **Who are you?** 
 
@@ -67,12 +89,23 @@ These Slides can be found at:
 
 3.   **What have you done?**
 
+:::
+
+:::
 ------------------------------------------------------------------------
 
 ## [What do **_you_** need from your *CV* ?]{style="color: darkblue"} {.smaller}
+::: {.fragment fragment-index=1}
+<img src="images/nick-fewings-7cLIUI6rVDc-unsplash.jpg"  height="90%" width="90%" >
+:::
+ 
+::: {.fragment fragment-index=2}
+ _To stand out from the crowd..._
+:::
 
-<p class="fragment"><img src="images/nick-fewings-7cLIUI6rVDc-unsplash.jpg"  height="90%" width="90%"></p>
-
+::: {.notes}
+To stand out from the crowd!
+:::
 ------------------------------------------------------------------------
 
 ## [How do you do that?]{style="color: darkblue"} {.smaller}
@@ -274,6 +307,11 @@ Patents
 
 ------------------------------------------------------------------------
 
+
+## [MS Word]{style="color: darkblue"} {.smaller}
+
+------------------------------------------------------------------------
+
 ##  {.smaller}
 
 `vitae` package\
@@ -303,7 +341,7 @@ Nick Strayer's DataDriven CV\
 [`https://nickstrayer.me/datadrivencv/`](https://nickstrayer.me/datadrivencv/)
 
 ![](images/data_driven_cv.png){fig-align="center"}
-
+Tutorial by UA CCT Data Science's Kristina Riemer:  [Video](https://youtu.be/teVINKwhmLw?si=_gd1bpJQEZsOKyF1) & [Slides](https://cct-datascience.quarto.pub/customizable-resumes-with-r-tools/#/schedule)
 
 
 ------------------------------------------------------------------------
